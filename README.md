@@ -1,7 +1,8 @@
 ## Bem-vindo(a) ao perfil do valerio-junior 😁
  
 Eu sou o Valerio Marcos, sou um programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e JavaScript.
-
+<br>
+<br>
  <div>
    <a href="https://github.com/valerio-junior">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valerio-junior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
